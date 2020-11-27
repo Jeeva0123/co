@@ -40,7 +40,12 @@ body nav .navbar-nav .btn-danger:hover {
   background: #df6700;
   border-color: #df6700;
 }
-
+.orange{
+  color:orange;
+}
+.white{
+  color:white;
+}
 a, a:hover {
   color: #ff8013;
 }
